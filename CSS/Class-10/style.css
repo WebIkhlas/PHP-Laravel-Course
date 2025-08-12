@@ -1,0 +1,25 @@
+
+
+a{
+    color: red;
+    text-decoration: none;
+}
+a:link {
+    color: blue;
+}
+ a:visited {
+     color: rgb(253, 228, 0);
+     border: 5px solid black !important;
+     font-size: 50px !important;
+ }
+a:hover {
+    font-style: italic;
+    text-decoration: overline 5px dotted red;
+}
+a:active{
+    font-size: 25px;
+    color: brown;
+}
+
+
+
