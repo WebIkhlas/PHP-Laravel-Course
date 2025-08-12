@@ -1,0 +1,18 @@
+
+*{
+    border: 2px solid red;
+    /* color: gold; */
+}
+body {
+    font-style: italic;
+}
+p {
+    font-style: normal;
+    background-color: rgba(153, 210, 142, 0.3);
+}
+/* About section */
+a:link{
+    color: brown;
+    font-size: 25px;
+}
+/* /About section */
