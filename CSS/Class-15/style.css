@@ -1,0 +1,34 @@
+
+
+body {
+    border: 5px solid green;
+}
+.product-area .product-name {
+    color: #ff000091;
+    text-align: center;
+}
+.product-area .product-img {
+    border: 3px solid yellow;
+    width: 300px;
+}
+.product-area .product-prize strong {
+    color: rgb(58, 9, 236);
+    font-family: sans-serif;
+}
+
+.product-area .product-description ul {
+    list-style: none;
+    color: chocolate;
+}
+.product-area .product-description ul li {
+    font-style: italic;
+}
+.product-area .product-description ul li:nth-child(2) {
+    font-size: 25px;
+    font-style: normal;
+}
+.product-area .product-description ul li:nth-child(4) {
+    color: blue;
+    font-size: 22px;
+    font-style: italic;
+}
