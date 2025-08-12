@@ -1,0 +1,13 @@
+
+body {
+    font-style: italic;
+}
+
+h3 {
+    color: red;
+    font-style: italic;
+}
+.para {
+    color: aqua;
+    font-style: normal;
+}
