@@ -1,0 +1,19 @@
+
+
+h1 {
+    color: red;
+}
+h2 {
+    color: rgba(0, 255, 0, 0.3);
+}
+h3 {
+    color: #00000054
+}
+h4 {
+    background-color: red;
+    color: #fff;
+
+}
+h5 {
+    border: 2px solid blue;
+}
